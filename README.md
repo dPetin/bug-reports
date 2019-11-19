@@ -1,2 +1,3 @@
-# wingsemu-bug-reports
-NosWings' latest emulator related issues, accessible for everyone to track our progress.
+# Noswings Bug Reporting
+
+All our public bugs will be reported here and fixed as well

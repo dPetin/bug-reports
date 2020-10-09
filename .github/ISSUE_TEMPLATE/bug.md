@@ -1,30 +1,25 @@
 ---
-name: bug
-about: Create a report to help us improve
+name: Equipment betting
+about: When u bet equipment w amulets, they wont dissapear
 title: "[BUG]"
 labels: bug
 assignees: ''
 
 ---
 
-## **Title of bug**
-
+## **Bug**
+Equip betting with amulets
 ## **To Reproduce**
-**Where**:
-**When**:
-**Description**:
-**Actions**:
-**1.**
-**2.**
-**3.**
+**Where**: Teodor Topp
+**When**: When betting with amulet equiped
+**Description**: After failing the bet for 3rd time
+
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+After you run out of times, the amulet should delete itself
 
 ## Screenshots
-If applicable, add screenshots to help explain your problem.
+https://imgur.com/a/hzpSTVK
 
 **Additional context**
-Add any other context about the problem here.
-- Missing packets
-- Too much packets...
+ No idea how valuable commodity its going to be, but since its mainly for heroic equipment, this could be used in "scammy" situations
